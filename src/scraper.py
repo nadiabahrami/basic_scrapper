@@ -1,10 +1,8 @@
 """Scrapper part1."""
 from bs4 import BeautifulSoup
-
-"""Scrapper part1."""
-from bs4 import BeautifulSoup
-"""Note to TA.  I know there is nothing here.  I will come back to it later 
-to get full points."""
+import requests
+import io
+import sys
 
 
 # INSPECTION_DOMAIN = 'http://info.kingcounty.gov'
